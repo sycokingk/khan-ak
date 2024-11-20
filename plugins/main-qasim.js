@@ -6,10 +6,10 @@ let handler = async m =>
 
 ─────────────
 ▢ Join WhatsApp Channel For Updates
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+https://whatsapp.com/channel/0029VaHJSUeC6Zvq89X23w2k
 
 ▢ Group 2
-https://t.me/GlobalBotInc
+https://t.me/khanak47ak
 
 ─────────────
 ≡ Disabled links? Chat Directly! 
@@ -18,10 +18,10 @@ https://t.me/GlobalBotInc
  https://GlobalTechInc
 ─────────────
 ▢ *Owner instagram*
- https://instagram.com/global.techinfo
+ https://instagram.com
 
 ▢ *YouTube*
-• https://www.youtube.com/@GlobalTechInfo
+• https://www.youtube.com
 
 
 `.trim()
