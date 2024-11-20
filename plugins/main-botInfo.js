@@ -65,14 +65,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-▢ Instagram :
-  • https://instagram.com/global.techinfo
-▢ GitHub :
-  • https://github.com/GlobalTechInfo
-▢ YouTube : 
-  • https://youtube.com/@GlobalTechInfo
-▢ credit: 
-  • mr oreo
+▢ *AFZAAL-KHAN*
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
