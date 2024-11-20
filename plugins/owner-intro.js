@@ -6,23 +6,23 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
     const introText = `
  ◈ •╭═══ ━ ━ • ━ ━ ━ ═══♡᭄
  ◈ •│       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
- ◈ •│ Name    : 𝙺𝙰𝚂𝙸𝙼 𝙰𝙻𝙸
+ ◈ •│ Name    : Afzaal Khan
  ◈ •│
- ◈ •│ Place     : 𝙿𝙰𝙺𝙸𝚂𝚃𝙰𝙽
+ ◈ •│ Place     : Kashmir
  ◈ •│
  ◈ •│ Gender  : 𝙼𝙰𝙻𝙴
  ◈ •│
- ◈ •│ Age        : 𝟸𝟼_
+ ◈ •│ Age        : 19
  ◈ •│
- ◈ •│ Status   : 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁
+ ◈ •│ Status   : Programmer
  ◈ •│
- ◈ •│ Skills     : 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃
+ ◈ •│ Skills     : Coding,Hacking
  ◈ •│
- ◈ •│ Lang     : 𝙴𝙽𝙶𝙻𝙸𝚂𝙷,𝚄𝚁𝙳𝚄
+ ◈ •│ Lang     : Urdu,Eng
  ◈ •│
- ◈ •│ Project  : 𝚄𝙻𝚃𝚁𝙰-𝙼𝙳
+ ◈ •│ Project  : AK-47
  ◈ •│
- ◈ •│ Hobbie  : 𝙲𝙾𝙳𝙸𝙽𝙶,𝙱𝙾𝚃𝚂
+ ◈ •│ Hobbie  : Coding,Bots
  ◈ •╰═══ ━ ━ • ━ ━ ━ ═══♡᭄
     `;
 
@@ -35,12 +35,12 @@ let handler = async (m, { text, usedPrefix, command, conn }) => {
       console.log("Error fetching profile picture:", e);
     }
 
-    const sourceUrl = 'https://youtube.com/@GlobalTechInfo'; // Example source URL for the card
+    const sourceUrl = 'https://'; // Example source URL for the card
 
     const contextInfo = {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: 'ULTRA-MD', // Title of the card
+        title: 'AK-47', // Title of the card
         body: '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯',
         thumbnailUrl: 'https://github.com/GlobalTechInfo.png', // Fixed URL syntax with quotes
         mediaUrl: 'https://github.com/GlobalTechInfo.png', // Fixed URL syntax with quotes
