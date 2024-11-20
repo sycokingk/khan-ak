@@ -21,8 +21,8 @@ let handler = async (m, { conn, usedPrefix }) => {
     let greeting = ucapan();
 
     let str = `
-      『 *ULTRA-MD* 』  
-      © 2024 *GlobalTechInfo*`;
+      『 *AK-47* 』  
+      © 2024 *HackerTechInfo*`;
 
     let msg = generateWAMessageFromContent(m.chat, {
         viewOnceMessage: {
@@ -52,7 +52,7 @@ let handler = async (m, { conn, usedPrefix }) => {
                                     "title": "TAP TO OPEN",
                                     "sections": [{
                                         "title": "HERE IS BUTTONS MENU",
-                                        "highlight_label": "ULTRA",
+                                        "highlight_label": "AK-47",
                                         "rows": [
                                             { "header": "", "title": "🎁 Bot Menu", "description": "The Bot's secret control panel.", "id": `${usedPrefix}botmenu` },
                                             { "header": "", "title": "🖲️ Owner Menu", "description": "Yep, that's for you, Boss!", "id": `${usedPrefix}ownermenu` },
